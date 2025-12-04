@@ -1,0 +1,17 @@
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\api\CodeController.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\api\EanValidateRequest.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\ean\EanService.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\ean\EanValidationResult.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\export\ExportController.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\export\InkscapeExportService.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\export\SvgExportRequest.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\GpcsCodeStudioApplication.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\gs1\Gs1Service.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\job\JobController.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\job\JobDto.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\job\JobRecord.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\job\JobService.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\job\SaveJobRequest.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\service\EanService.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\web\dto\CodeValidationRequest.java
+C:\Users\lukac\Desktop\GPCS CodeStudio-be\src\main\java\com\gpcs\codestudio\web\dto\CodeValidationResponse.java
